@@ -1,5 +1,5 @@
-import os
-import sys
+# import os
+# import sys
 
 
 def add(a, b):
@@ -48,4 +48,3 @@ if __name__ == "__main__":
     print(f"7 * 3 = {result2}")
     unused_variable = "This variable is never used"
     print("Calculator completed successfully!")
-
